@@ -11,3 +11,6 @@ Connect with me on these platforms
 🔗 Twitter: https://twitter.com/dzelrahman
 
 🔗 LinkedIn: https://www.linkedin.com/in/faris-dzikrur-rahman-077a70172/
+
+🔗 Web Site: https://dzelrahman.wixsite.com/portfolio
+
