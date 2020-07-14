@@ -1,16 +1,13 @@
-### Hi there 👋
+![Hi there 👋](https://res.cloudinary.com/ejaarti/image/upload/v1594699840/Zell_Karstein_Illustrator_myjvoj.png)
 
-<!--
-**dzelrahman/dzelrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello! Welcome to my GitHub page.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me on these platforms
+
+
+🔗 Medium: https://medium.com/@dzelrahman
+
+🔗 Twitter: https://twitter.com/dzelrahman
+
+🔗 LinkedIn: https://www.linkedin.com/in/faris-dzikrur-rahman-077a70172/
